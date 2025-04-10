@@ -1,0 +1,21 @@
+body {
+  display: grid;
+  justify-content: center;
+}
+
+.grupo {
+  display: grid;
+  justify-content: center;
+}
+
+#histograma {
+  border: 1px solid black;
+}
+
+#grupo1 {
+  display: flex;
+}
+h3 {
+  display: flex;
+  justify-content: center;
+}
