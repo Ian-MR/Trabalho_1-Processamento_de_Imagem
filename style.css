@@ -3,6 +3,16 @@ body {
   justify-content: center;
 }
 
+#selecao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#selecao > h3 {
+  margin-right: 15px;
+}
+
 .grupo {
   display: grid;
   justify-content: center;
@@ -15,6 +25,11 @@ body {
 #grupo1 {
   display: flex;
 }
+
+#grupo1 > div {
+  margin: 0 15px;
+}
+
 h3 {
   display: flex;
   justify-content: center;
